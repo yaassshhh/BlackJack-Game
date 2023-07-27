@@ -1,0 +1,16 @@
+body{
+    background-color: green;
+    text-align: center;
+    font-weight: bold;
+    color: #fff;
+}
+h1{
+    color: goldenrod;
+}
+#start-btn, #newCard-btn{
+    background-color: goldenrod;
+    color: green;
+    border: none;
+    font-weight: bolder;
+    border-radius: 2%;
+}
